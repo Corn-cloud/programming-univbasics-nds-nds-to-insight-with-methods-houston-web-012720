@@ -26,6 +26,6 @@ def directors_totals(nds)
   result = {}
   director_index = 0 
   while director_index < nds.size do
-    director = 
+    director = nds
 
 end
